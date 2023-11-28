@@ -2886,26 +2886,25 @@
     ]
   },
   "packageFolders": {
-    "/Users/nguyenquangthanh/.nuget/packages/": {}
+    "/Users/tranthimaihien/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nguyenquangthanh/ASP.NET/BookStore/bookshop/BookShopMvc/BookShopMvc/BookShopMvc.csproj",
+      "projectUniqueName": "/Users/tranthimaihien/Documents/fpt/SEM3/AligeDevelopment/bookshop/BookShopMvc/BookShopMvc/BookShopMvc.csproj",
       "projectName": "BookShopMvc",
-      "projectPath": "/Users/nguyenquangthanh/ASP.NET/BookStore/bookshop/BookShopMvc/BookShopMvc/BookShopMvc.csproj",
-      "packagesPath": "/Users/nguyenquangthanh/.nuget/packages/",
-      "outputPath": "/Users/nguyenquangthanh/ASP.NET/BookStore/bookshop/BookShopMvc/BookShopMvc/obj/",
+      "projectPath": "/Users/tranthimaihien/Documents/fpt/SEM3/AligeDevelopment/bookshop/BookShopMvc/BookShopMvc/BookShopMvc.csproj",
+      "packagesPath": "/Users/tranthimaihien/.nuget/packages/",
+      "outputPath": "/Users/tranthimaihien/Documents/fpt/SEM3/AligeDevelopment/bookshop/BookShopMvc/BookShopMvc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nguyenquangthanh/.nuget/NuGet/NuGet.Config"
+        "/Users/tranthimaihien/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
-        "/usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "/usr/local/share/dotnet/sdk/7.0.310/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2964,7 +2963,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
       }
     }
   }
