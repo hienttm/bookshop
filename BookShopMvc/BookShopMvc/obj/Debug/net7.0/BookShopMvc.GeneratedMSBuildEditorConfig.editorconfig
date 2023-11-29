@@ -9,37 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BookShopMvc
 build_property.RootNamespace = BookShopMvc
-build_property.ProjectDir = /Users/tranthimaihien/Documents/fpt/SEM3/AligeDevelopment/bookshop/BookShopMvc/BookShopMvc/
+build_property.ProjectDir = /Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/tranthimaihien/Documents/fpt/SEM3/AligeDevelopment/bookshop/BookShopMvc/BookShopMvc
+build_property.MSBuildProjectDirectory = /Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/tranthimaihien/Documents/fpt/SEM3/AligeDevelopment/bookshop/BookShopMvc/BookShopMvc/Views/Home/Index.cshtml]
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Author/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXV0aG9yL0FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Author/Fix.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXV0aG9yL0ZpeC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Author/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXV0aG9yL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Category/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Category/Fix.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvRml4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Product/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9BZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Product/Fix.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9GaXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Publisher/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHVibGlzaGVyL0FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Publisher/Fix.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHVibGlzaGVyL0ZpeC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Publisher/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHVibGlzaGVyL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Shared/_ToastCategoryPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19Ub2FzdENhdGVnb3J5UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Areas/Admin/Views/Subcategory/Fix.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3ViY2F0ZWdvcnkvRml4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranthimaihien/Documents/fpt/SEM3/AligeDevelopment/bookshop/BookShopMvc/BookShopMvc/Views/Home/Privacy.cshtml]
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranthimaihien/Documents/fpt/SEM3/AligeDevelopment/bookshop/BookShopMvc/BookShopMvc/Views/Shared/Error.cshtml]
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Views/Shared/Components/Sidebar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvU2lkZWJhci9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranthimaihien/Documents/fpt/SEM3/AligeDevelopment/bookshop/BookShopMvc/BookShopMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Views/Shared/_SidebarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TaWRlYmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranthimaihien/Documents/fpt/SEM3/AligeDevelopment/bookshop/BookShopMvc/BookShopMvc/Views/_ViewImports.cshtml]
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranthimaihien/Documents/fpt/SEM3/AligeDevelopment/bookshop/BookShopMvc/BookShopMvc/Views/_ViewStart.cshtml]
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranthimaihien/Documents/fpt/SEM3/AligeDevelopment/bookshop/BookShopMvc/BookShopMvc/Views/Shared/_Layout.cshtml]
+[/Users/hieuhee/Documents/MyProject/bookshop/BookShopMvc/BookShopMvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dqbekf4dsc
