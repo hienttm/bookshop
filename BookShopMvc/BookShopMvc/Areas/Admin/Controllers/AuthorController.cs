@@ -1,6 +1,5 @@
 ﻿using System;
 using BookShopMvc.Models;
-
 using Microsoft.AspNetCore.Mvc;
 
 namespace BookShopMvc.Areas.Admin.Controllers

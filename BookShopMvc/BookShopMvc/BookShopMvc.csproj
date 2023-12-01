@@ -19,5 +19,28 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\Shared\Components\HomeProduct\" />
+    <None Remove="Views\Category\" />
+    <None Remove="Views\SubCategory\" />
+    <None Remove="Views\Product\" />
+    <None Remove="Views\Search\" />
+    <None Remove="Views\Shared\Components\SidebarDetail\" />
+    <None Remove="Views\Filter\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Shared\Components\HomeProduct\" />
+    <Folder Include="Views\Category\" />
+    <Folder Include="Views\SubCategory\" />
+    <Folder Include="Views\Product\" />
+    <Folder Include="wwwroot\json\" />
+    <Folder Include="Views\Search\" />
+    <Folder Include="Views\Shared\Components\SidebarDetail\" />
+    <Folder Include="Views\Filter\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\json\" />
   </ItemGroup>
 </Project>

@@ -1,46 +1,59 @@
 ﻿<Properties StartupConfiguration="{704C8398-E7D3-4D2B-955C-09FB27ADE060}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BookShopMvc/Repository/Components/HomeProductViewComponent.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BookShopMvc PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookShopMvc/Views/Product/Index.cshtml">
     <Files>
-      <File FileName="BookShopMvc/Views/Shared/Components/Sidebar/Default.cshtml" Line="10" Column="14" />
-      <File FileName="BookShopMvc/Views/Shared/_SidebarPartial.cshtml" Line="1" Column="47" />
-      <File FileName="BookShopMvc/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
-      <File FileName="BookShopMvc/Views/Home/Index.cshtml" Line="1" Column="1" />
-      <File FileName="BookShopMvc/Repository/Components/HomeProductViewComponent.cs" Line="8" Column="4" />
+      <File FileName="BookShopMvc/Views/Product/Index.cshtml" Line="24" Column="1" />
+      <File FileName="BookShopMvc/Areas/Admin/Controllers/AuthorController.cs" Line="1" Column="1" />
+      <File FileName="BookShopMvc/wwwroot/js/search.js" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookShopMvc" expanded="True">
             <Node name="BookShopMvc" expanded="True">
-              <Node name="Dependencies" expanded="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
               <Node name="Areas" expanded="True">
                 <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
                   <Node name="Views" expanded="True">
-                    <Node name="Category" expanded="True" />
+                    <Node name="Author" expanded="True" />
+                    <Node name="Product" expanded="True" />
+                    <Node name="Shared" expanded="True" />
                   </Node>
                 </Node>
               </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
               <Node name="Repository" expanded="True">
                 <Node name="Components" expanded="True" />
               </Node>
               <Node name="Views" expanded="True">
+                <Node name="Filter" expanded="True" />
                 <Node name="Home" expanded="True" />
+                <Node name="Product" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True">
                   <Node name="Components" expanded="True" />
                 </Node>
               </Node>
-              <Node name="wwwroot" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+                <Node name="json" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BookShopMvc PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

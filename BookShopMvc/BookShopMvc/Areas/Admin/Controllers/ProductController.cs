@@ -3,6 +3,9 @@ using BookShopMvc.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using System.IO;
+using Newtonsoft.Json;
+using Microsoft.AspNetCore.Hosting.Server;
 
 namespace BookShopMvc.Areas.Admin.Controllers
 {
@@ -20,6 +23,23 @@ namespace BookShopMvc.Areas.Admin.Controllers
         public IActionResult Index()
         {
             var product = _dbContext.Products.Include(p => p.Author).Include(p => p.Subcategory).Include(p => p.Publisher).OrderByDescending(p => p.Id).ToList();
+            var settings = new JsonSerializerSettings
+            {
+                ReferenceLoopHandling = ReferenceLoopHandling.Ignore
+            };
+
+            var json = JsonConvert.SerializeObject(product, settings);
+
+            var path = Path.Combine(_webHostEnvironment.WebRootPath, "json");
+            if (!Directory.Exists(path))
+            {
+                Directory.CreateDirectory(path);
+            }
+
+            var filePath = Path.Combine(path, "products.json");
+
+            System.IO.File.WriteAllText(filePath, json);
+
             return View(product);
         }
 
